@@ -1,24 +1,14 @@
-# Olá! 👋 Meu nome é Erik Lariu
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Erik%20Lariu&fontSize=80&animation=fadeIn&fontColor=fff)
 
-Estudante de Sistemas de Informação - Cesmac
+### 🎮 Estudante de Sistemas de Informação | Desenvolvedor FIVEM
 
-* 🌍  Moro em Maceió - Brasil
-* ✉️  Você pode entrar em contato comigo em [eml737m@gmail.com](mailto:eml737m@gmail.com)
-* 👥  Estou procurando colaborar em Projetos de FIVEM
-* 🚀  Atualmente trabalhando no **Projeto Catrina**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+em+constante+evolução;Apaixonado+por+tecnologia+e+jogos" alt="Typing SVG" />
 
-## 🛠️ Habilidades
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
-</p>
+</div>
 
 ---
 
-⭐ Se você gostou dos meus projetos, considere dar uma estrela!
+## 👨‍💻 Sobre Mim
+```javascript
