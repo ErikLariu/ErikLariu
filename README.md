@@ -101,20 +101,9 @@ Atualmente cursando **Sistemas de Informação na CESMAC**, busco constantemente
 - Resolução de problemas complexos
 - Comunicação efetiva
 
----
-
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikLariu&show_icons=true&theme=radical)
-
----
-
 ## 📫 Vamos Conversar?
 
-Estou sempre aberto a novas oportunidades e colaborações!
-
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:eml737m@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ErikLariu)
+@erik_lariu (Instagram) (MANDE MENSAGEM)
 
 ---
 
